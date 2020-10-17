@@ -3,6 +3,6 @@ import Header from "../components/header";
 export default () => (
   <>
     <Header />
-    <h1>Welcome to Mastering Next.js!</h1>
+    <h1>This is all Contact related information you'll get</h1>
   </>
 );
